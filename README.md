@@ -65,6 +65,10 @@ https://github.com/balfatih/YAZ16303_Yazilim_Mimarisi_ve_Tasarimi
 
 https://java-design-patterns.com/
 
+https://refactoring.guru/design-patterns/java
+
+
+
 
 ---
 
