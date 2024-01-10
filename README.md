@@ -62,6 +62,7 @@ KutuphaneApp programını çalıştırdıktan sonra sistemimize kayıt ol butonu
 ## Katkılar
 
 https://github.com/balfatih/YAZ16303_Yazilim_Mimarisi_ve_Tasarimi
+
 https://java-design-patterns.com/
 
 
