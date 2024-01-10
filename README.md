@@ -8,56 +8,63 @@
 
 ## Grup Bilgileri
 
-| Öğrenci No | Adı Soyadı           | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
-|------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 1210505057  | Nuri Süzen			| Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
-| 987654321  | Öğrenci Adı Soyadı   | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
-| 456789123  | Öğrenci Adı Soyadı   | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
+| Öğrenci No | Adı Soyadı        | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri             |
+|------------|-------------------|-----------------------|---------------|-----------------------------------------------|
+| 1210505057 | Nuri Süzen		   | Yazılım Mühendisliği  | PROJE_1       | [Github](https://github.com/zenheri)          |
+| 1210505047 | Gizem Özdoğan     | Yazılım Mühendisliği  | PROJE_1       | [Github](https://github.com/gizemozdogan)     |
+| 1210505001 | Esra Bildik       | Yazılım Mühendisliği  | PROJE_1       | [Github](https://github.com/esrabildikk)      |
 
 ---
 
 ## Proje Açıklaması
 
-Buraya proje ile ilgili genel bir açıklama ekleyin. Projenizin amacı, kapsamı, kullanılan teknolojiler ve belki de projenin nasıl çalıştırılacağı gibi önemli bilgileri içermelidir.
+Java ve JavaFX kullanılarak geliştirilmiş bu kütüphane projesi, farklı kullanıcı tiplerine sahip bir kütüphane yönetim sistemini içerir. Bu sistemde üç farklı kullanıcı tipi bulunmaktadır: Personel (Admin), Öğrenci ve Öğretim Üyesi. Projede SQLite veritabanı kullanılmış ve yazılım tasarımında Factory, Singleton, State, Entity ve Observer design patternleri uygulanmıştır.
 
 ---
 
 ## Proje Dosya Yapısı
 
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
-- **/src**
-  - **/components**
-    - `Component1.js`
-    - `Component2.js`
-  - **/utils**
-    - `utility.js`
-- **/public**
-  - `index.html`
-- `README.md`
-- `LICENSE`  
 
+-src
+   -main
+      -java
+         -kutuphane
+            -AnaEkran
+            -BaseController
+            -BookNotificationController
+            -BookView
+            -KategoriController
+            -KutuphaneApp
+            -LoginController
+            -UserController
+-Tanıtım.txt
 
 ---
 
 ## Kurulum
 
-Projeyi yerel bilgisayarınıza klonlamak ve çalıştırmak için adımları buraya ekleyin.  
-Gerekli bağımlılıkların nasıl yükleneceği (veri seti, kullanılan kütüphanelerin sürümleri vs.), konfigürasyon adımları vb. bu bölümde bulunabilir.
+Kutuphane Dosyasını indirdikten sonra Kullandığınız Ide'ye dosyamızı yüklüyoruz.
+
 
 ---
 
 ## Kullanım
 
-Projenin nasıl kullanılacağına dair bilgileri ekleyin. Örneğin, projenizi bir kişi bilgisayarına indirdiğinde sorunsuz bir şekilde çalıştırması için yapması gereken adımları listeleyin.
+Sırasıyla src>main>java>kutuphane>KutuphaneApp dosyalarından KutuphaneApp programını çalıştırıyoruz.
+KutuphaneApp programını çalıştırdıktan sonra sistemimize kayıt ol butonundan kayıt olup sistemimize giriş yapabiliriz.
 
 ---
 
 ## Katkılar
 
-Projeyi yaparken hangi kaynaklardan bilgi edindiğinizi belirtin.
+https://github.com/balfatih/YAZ16303_Yazilim_Mimarisi_ve_Tasarimi
+https://java-design-patterns.com/
+
 
 ---
 
 ## İletişim
 
-Proje ile ilgili iletişim bilgileri veya bağlantılarınızı ekleyin. Örneğin, e-posta adresleri, sosyal medya hesapları vb.
+1210505057@ogr.klu.edu.tr
+1210505047@ogr.klu.edu.tr
+1210505001@ogr.klu.edu.tr
