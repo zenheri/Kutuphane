@@ -25,9 +25,9 @@ Java ve JavaFX kullanılarak geliştirilmiş bu kütüphane projesi, farklı kul
 ## Proje Dosya Yapısı
 
 
--src
-   -main
-      -java
+-**src**
+   -**main**
+      -**java**
          -kutuphane
             -AnaEkran
             -BaseController
