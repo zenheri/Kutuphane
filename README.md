@@ -25,13 +25,18 @@ Java ve JavaFX kullanılarak geliştirilmiş bu kütüphane projesi, farklı kul
 ## Proje Dosya Yapısı
 
 
--**src**
+-src
 
-   -**main**
-      -**java**
+   -main
+   
+      -java
+      
          -kutuphane
+         
             -AnaEkran
+            
             -BaseController
+            
             -BookNotificationController
             -BookView
             -KategoriController
