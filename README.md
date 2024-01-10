@@ -67,7 +67,6 @@ https://java-design-patterns.com/
 
 https://refactoring.guru/design-patterns/java
 
-https://www.youtube.com/@bahadirmemis
 
 
 
@@ -77,5 +76,8 @@ https://www.youtube.com/@bahadirmemis
 ## İletişim
 
 1210505057@ogr.klu.edu.tr
+
 1210505047@ogr.klu.edu.tr
+
 1210505001@ogr.klu.edu.tr
+
