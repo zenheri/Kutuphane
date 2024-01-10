@@ -67,6 +67,8 @@ https://java-design-patterns.com/
 
 https://refactoring.guru/design-patterns/java
 
+https://www.youtube.com/@bahadirmemis
+
 
 
 
